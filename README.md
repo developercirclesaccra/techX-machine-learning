@@ -1,3 +1,3 @@
 # techX-machine-learning
-App machine learning module
-NLP using NLKT for TechX project
+TechX app's machine learning module
+NLP using NLKT
